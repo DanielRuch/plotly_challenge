@@ -1,0 +1,6 @@
+#sample-metadata ul {
+    list-style-type: none;
+    font-weight: bold;
+    padding-left: 10px;
+    display: inline-block;
+}
